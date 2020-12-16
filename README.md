@@ -1,4 +1,4 @@
-# Project 2 - Ames Housing Data and Kaggle Challenge
+# Ames Housing Data and Kaggle Challenge
 
 
 ### Primary Learning Objectives
@@ -70,7 +70,7 @@ I would want to look into how specific materials within each renovation adds val
 
 
 ### Directory Structure
-
+```
 |__ code
    |__ 01_Project 2 Final Notebook.ipynb   
    |__ 02_EDA_Cleaning_Preprocessing_and_Feature_Engineering.ipynb   
@@ -95,3 +95,4 @@ I would want to look into how specific materials within each renovation adds val
    |__ attribute_histogram_plots.png
 |__ presentation.pdf
 |__ README.md
+```
